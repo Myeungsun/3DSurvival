@@ -6,11 +6,13 @@ W, A, S, D ( 움직임 ) /  Space ( 점프 ) / E ( 상호작용 ) / Tap ( 인벤
 
 ### 정보
 
-# 에임을 아이템에 가져다 대면 정보가 나옴
+# Aim
+에임을 아이템에 가져다 대면 정보가 나옴
 
 ![image](https://github.com/Myeungsun/3DSurvival/assets/167074990/e311058d-ddb3-4014-89d4-ac7bc5fa37d6)
 
-# 빨간색 = 체력 / 갈색 = 배고픔 / 초록색 = 스태미나(미구현)
+# Status
+빨간색 = 체력 / 갈색 = 배고픔 / 초록색 = 스태미나(미구현)
 시간이 지날수록 배고픔이 닳고 다 닳는다면 체력이 닳음
 
 ![image](https://github.com/Myeungsun/3DSurvival/assets/167074990/0c605d0c-03ec-4c66-a521-8f0e0391c468)
